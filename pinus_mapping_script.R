@@ -58,7 +58,7 @@ for(i in 1:12){
 mds.ord.whole.genome<-unlist(sapply(LGS, function(x) x$seq$seq.mrk.names))
 plot(mat, ord = mds.ord.whole.genome, fact = 5)
 
-#### Performing parallel phsing computation ####
+#### Performing parallel phasing computation ####
 phasing_and_hmm_rf <- function(X){
   fl <- paste0("output_map_ch_", X$ch, ".txt")
   sink(fl)
