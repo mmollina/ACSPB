@@ -6,7 +6,7 @@
 
 ## Linkage maps and haplotype reconstruction
 
- - [Overview Slides](https://github.com/mmollina/SCRI/blob/main/docs/SCRI_linkage_and%20phasing.pptx)
+ - [Overview Slides](https://github.com/mmollina/ACSPB/blob/main/Polyploid-Linkage-Analysis.pdf)
  - [MAPpoly and QTLpoly Slides](https://github.com/mmollina/SCRI/raw/main/docs/MAPPoly_QTLpolyupdates.pptx)
 
 ## Construction of genetic maps in outcrossing diploids and polyploids using MAPpoly
