@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">Advancing Computing Skills in Plant Breeding Crops</h1>
-   <h4 align="center">Linkage and QTL mapping in diploid and polyploid species - Lorizzo & Mollinari</h4>
+   <h4 align="center">Linkage and QTL mapping in diploid and polyploid species - Gesteira, Mengist, Mollinari & Lorizzo</h4>
     <br>
 </p>
 
