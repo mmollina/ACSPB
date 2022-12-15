@@ -18,7 +18,7 @@
  - [Diploid scripts](https://github.com/mmollina/ACSPB/blob/main/pinus_mapping_script.R)
  
 ### Potato example
- - [Tetraploid scripts](https://github.com/mmollina/SCRI/tree/main/MAPpoly/tetra)
+ - [Peereira et al. (2020) scripts](https://github.com/mmollina/B2721_map)
  - [Tetraploid vignette](https://rpubs.com/mmollin/tetra_mappoly_vignette)
  - [Introduction to MAPpoly - plain script](https://github.com/mmollina/SCRI/blob/main/docs/tetra/mappoly_intro.md)
  
