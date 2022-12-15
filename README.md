@@ -8,6 +8,7 @@
 
  - [Overview Slides](https://github.com/mmollina/ACSPB/blob/main/slides/Polyploid-Linkage-Analysis-ACSPB.pptx)
  - [MAPpoly and QTLpoly Slides](https://github.com/mmollina/SCRI/raw/main/docs/MAPPoly_QTLpolyupdates.pptx)
+ - [Support slides](https://github.com/mmollina/ACSPB/blob/main/MAPpoly_support_slides.pptx)
 
 ## Construction of genetic maps in outcrossing diploids and polyploids using MAPpoly
 
