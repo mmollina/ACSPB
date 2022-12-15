@@ -19,7 +19,7 @@
  
 ### Potato example
  - [Peereira et al. (2020) scripts](https://github.com/mmollina/B2721_map)
- - [Tetraploid vignette](https://rpubs.com/mmollin/tetra_mappoly_vignette)
+ - [Tetraploid vignette](https://github.com/mmollina/ACSPB/blob/main/mappoly_vignette/mappoly_startguide.R)
  - [Introduction to MAPpoly - plain script](https://github.com/mmollina/SCRI/blob/main/docs/tetra/mappoly_intro.md)
  
 ### Sweetpotato example 
